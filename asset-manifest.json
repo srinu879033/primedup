@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/primedup/static/css/main.db56467a.chunk.css",
+    "main.js": "/primedup/static/js/main.f6d39122.chunk.js",
+    "main.js.map": "/primedup/static/js/main.f6d39122.chunk.js.map",
+    "runtime-main.js": "/primedup/static/js/runtime-main.d1795fb4.js",
+    "runtime-main.js.map": "/primedup/static/js/runtime-main.d1795fb4.js.map",
+    "static/js/2.98c29037.chunk.js": "/primedup/static/js/2.98c29037.chunk.js",
+    "static/js/2.98c29037.chunk.js.map": "/primedup/static/js/2.98c29037.chunk.js.map",
+    "index.html": "/primedup/index.html",
+    "static/css/main.db56467a.chunk.css.map": "/primedup/static/css/main.db56467a.chunk.css.map",
+    "static/js/2.98c29037.chunk.js.LICENSE.txt": "/primedup/static/js/2.98c29037.chunk.js.LICENSE.txt",
+    "static/media/user.109eb920.png": "/primedup/static/media/user.109eb920.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1795fb4.js",
+    "static/js/2.98c29037.chunk.js",
+    "static/css/main.db56467a.chunk.css",
+    "static/js/main.f6d39122.chunk.js"
+  ]
+}
